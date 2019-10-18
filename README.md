@@ -8,7 +8,7 @@ More often, existing user stories will contain security requirements as acceptan
 - System and application components are hardened according to Information Security requirements and checked for vulnerabilities through manual or automated security testing. All critical and high vulnerabilities will be remediated prior to release.
 - Components are segregated based on compliance requirements and Information Security Data Handling Requirements.
 
-## Authentication, Authorization, Accounting
+## Authentication, Authorization, Accounting(AAA)
 
 - All pages and resources require authentication except those specifically intended to be public.
 - Forms containing credentials are not filled in by the application. Pre-populating a form could mean that credentials are stored in plaintext or a reversible format.
